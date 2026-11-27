@@ -18,12 +18,20 @@ You can esilly use your dom elements as navigation arrows or pagination. This me
 
 ## Dependencies
 
-It uses [PIXI](http://www.pixijs.com/) to render and [GSAP](https://greensock.com/gsap) to animate.
+It uses [PixiJS 8](https://pixijs.com/) to render, [GSAP 3](https://gsap.com/) to animate and [detect-it](https://github.com/rafgraph/detect-it) to choose between mouse and touch behaviour.
 
 ## Usage
 
 *Coming soon*
 
-## Brunch + Babel/ES6
+## Development
 
-This Carousel use a modern JS skeleton for [Brunch](http://brunch.io). [Github page](https://github.com/brunch/with-es6) here.
+The project is built with [Vite](https://vite.dev).
+
+```bash
+npm install
+npm run dev      # dev server with hot reload
+npm run build    # production build in dist/
+npm run preview  # serve the production build locally
+npm run deploy   # build and publish dist/ to the gh-pages branch
+```
