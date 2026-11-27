@@ -33,5 +33,6 @@ npm install
 npm run dev      # dev server with hot reload
 npm run build    # production build in dist/
 npm run preview  # serve the production build locally
-npm run deploy   # build and publish dist/ to the gh-pages branch
 ```
+
+Every push on `master` builds the project and deploys `dist/` to GitHub Pages (`.github/workflows/deploy.yml`).

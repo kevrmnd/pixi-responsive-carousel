@@ -8,8 +8,7 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview",
-    "deploy": "vite build && gh-pages -d dist"
+    "preview": "vite preview"
   },
   "dependencies": {
     "detect-it": "^4.0.1",
@@ -17,7 +16,6 @@
     "pixi.js": "^8.23.0"
   },
   "devDependencies": {
-    "gh-pages": "^6.3.0",
     "vite": "^8.4.0"
   }
 }
