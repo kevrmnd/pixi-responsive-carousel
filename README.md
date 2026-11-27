@@ -18,10 +18,6 @@ You can esilly use your dom elements as navigation arrows or pagination. This me
 
 It uses [PixiJS 8](https://pixijs.com/) to render, [GSAP 3](https://gsap.com/) to animate and [detect-it](https://github.com/rafgraph/detect-it) to choose between mouse and touch behaviour.
 
-## Usage
-
-*Coming soon*
-
 ## Development
 
 The project is built with [Vite](https://vite.dev).
