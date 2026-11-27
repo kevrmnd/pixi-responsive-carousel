@@ -4,8 +4,6 @@ A responsive carousel wich handles any size and ratio of images. Enjoy a smooth 
 
 No need to truncate your pictures, they will all be fully visible.
 
-***It's currently a work in progress but it will be easilly usable soon.***
-
 ## Demo
 
 Check it with a desktop and a touch device : [Here.](https://kevrmnd.github.io/pixi-responsive-carousel/)
